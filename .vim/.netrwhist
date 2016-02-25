@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/vagrant/dev/code/soepc-registers-gradle/buildSrc/build'
+let g:netrw_dirhist_2='/home/vagrant/dev/code/soepc-registers-gradle/buildSrc/webapp-it/build'
+let g:netrw_dirhist_3='/home/vagrant/dev/code/soepc-registers-gradle/assessor/build'
+let g:netrw_dirhist_4='/home/vagrant/dev/code/soepc-registers-gradle/db-test/build/ssl-setup/keystore'
+let g:netrw_dirhist_5='/home/vagrant/dev/code/soepc-registers-gradle/assessor/integrationtest/dom/ew/build'
+let g:netrw_dirhist_6='/home/vagrant/dev/code/soepc-registers-gradle/assessor/integrationtest/dom/ni/build'
